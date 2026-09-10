@@ -1,0 +1,29 @@
+
+body{
+    text-align: center;
+    background-color: #000;
+    color: #fafafa;
+}
+
+input{
+    width: 500px;
+    height: 30px;
+    border: #928e8e;
+    background-color: white;
+    border-radius: 7px;
+    color: #000000;
+}
+
+button{
+    width: 300px;
+    height: 40px;
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(12, 8, 243);
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover{
+   background-color: rgb(9, 115, 236);
+}
